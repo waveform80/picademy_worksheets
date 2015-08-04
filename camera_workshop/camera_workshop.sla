@@ -756,6 +756,8 @@
             <para PARENT="Code"/>
             <ITEXT CH="    cam­er­a.start_re­cord­ing("/>
             <ITEXT CPARENT="String" CH="'/home/pi/Desktop/video.mp4'"/>
+            <ITEXT CH=", form­at="/>
+            <ITEXT CPARENT="String" CH="'h264'"/>
             <ITEXT CH=")"/>
             <para PARENT="Code"/>
             <ITEXT CH="    time.sleep­(5)"/>
