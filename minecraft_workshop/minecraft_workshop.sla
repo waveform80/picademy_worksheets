@@ -468,8 +468,8 @@
             <para PARENT="Heading"/>
             <ITEXT CH="In this exercise, you will display &quot;Hello Minecraft World&quot; on the game's chat console. This is primarily to check that everything is working."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Open Python 2 (not Python 3) by clicking "/>
-            <ITEXT CPARENT="Menu" CH="Menu &gt; Programming &gt; Python 2"/>
+            <ITEXT CH="Open Python 3 by clicking "/>
+            <ITEXT CPARENT="Menu" CH="Menu &gt; Programming &gt; Python 3"/>
             <ITEXT CH=". Use "/>
             <ITEXT CPARENT="Menu" CH="File &gt; New Win­dow"/>
             <ITEXT CH=" to create a new program and save it as "/>
