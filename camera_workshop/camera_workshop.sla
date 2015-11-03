@@ -569,7 +569,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="cam­er­a.start_­pre­view(al­pha=192)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="time.sleep­(5)"/>
+            <ITEXT CH="sleep­(5)"/>
             <para PARENT="Code"/>
             <ITEXT CH="cam­er­a.­cap­ture("/>
             <ITEXT CPARENT="String" CH="'/home/pi/Desktop/im­age.jpg'"/>
