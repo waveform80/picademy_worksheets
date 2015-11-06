@@ -18,15 +18,33 @@ instructions on setting up your workstation to work with the sheets.
 
 The following worksheets are currently defined in the repository:
 
-|[Camera workshop][]|[Explorer HAT workshop][]|
-|--------|--------|
-|![][camera_thumb]|![][explorer_hat_thumb]|
-|A workshop introducing the Pi's camera module and how to use it from Python in combination with GPIO components|A workshop introducing the Pimoroni Explorer HAT Pro, and how to use it from Python with LEDs and motors|
+### [Camera workshop][]
 
-|[GPIO workshop][]|[Minecraft workshop][]|
-|----------|---------|
-|![][gpio_thumb]|![][minecraft_thumb]|
-|A workshop introducing the Pi's GPIO ports and how to use them with LEDs and buttons from Scratch and Python|A workshop introducing Minecraft: Pi Edition, and how to communicate and manipulate the Minecraft world from Python|
+![][camera_thumb]
+
+A workshop introducing the Pi's camera module and how to use it from Python in
+combination with GPIO components
+
+### [Explorer HAT workshop][]
+
+![][explorer_hat_thumb]
+
+A workshop introducing the Pimoroni Explorer HAT Pro, and how to use it from
+Python with LEDs and motors
+
+### [GPIO workshop][]
+
+![][gpio_thumb]
+
+A workshop introducing the Pi's GPIO ports and how to use them with LEDs and
+buttons from Scratch and Python
+
+### [Minecraft workshop][]
+
+![][minecraft_thumb]
+
+A workshop introducing Minecraft: Pi Edition, and how to communicate and
+manipulate the Minecraft world from Python
 
 
 [CONTRIBUTING]:          CONTRIBUTING.md
