@@ -8,8 +8,8 @@ own directory which contains:
   to the containing directory
 
 * All source files required to construct the PDF. This usually consists of a
-  Scribus source file (*.sla), a series of images (*.jpg, *.png), and Fritzing
-  files used to generate wiring diagrams (*.fzz)
+  Scribus source file (\*.sla), a series of images (\*.jpg, \*.png), and
+  Fritzing files used to generate wiring diagrams (\*.fzz)
 
 If you wish to contribute changes, please read [CONTRIBUTING][] for
 instructions on setting up your workstation to work with the sheets.
