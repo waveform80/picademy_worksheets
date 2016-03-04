@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="126.85715"
+   height="26.023092"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-735.65642,-400.85936)"
+     id="layer1">
+    <g
+       transform="translate(-0.74889,9.1248658)"
+       id="set-size-to">
+      <path
+         d="m 740.83388,392.32899 7,0 3.25,3.10714 c 2.16667,0 8.33333,0 10.5,0 l 3.25,-3.10714 c 0,0 70.66667,0 94.00001,0 2.17643,0 3.92857,1.75214 3.92857,3.92857 l 0,13.96431 c 0,2.17643 -1.75214,3.92857 -3.92857,3.92857 -23.33334,0 -94.00001,0 -94.00001,0 l -3.25,3.10714 c -2.16667,0 -8.33333,0 -10.5,0 l -3.25,-3.10714 -7,0 c -2.17643,0 -3.92857,-1.75214 -3.92857,-3.92857 l 0,-13.96431 c 0,-2.17643 1.83588,-4.52648 3.92857,-3.92857 z"
+         inkscape:connector-curvature="0"
+         id="path10119"
+         style="fill:#8c55e6;fill-opacity:1;stroke:#633d9c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         x="740.47675"
+         y="407.57526"
+         id="text10121"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="740.47675"
+           y="407.57526"
+           id="tspan10123">set size to            %</tspan></text>
+      <path
+         d="m 814.72727,395.17192 23,0 c 2.3545,0 4.25,3.345 4.25,7.5 l 0,1.5 c 0,4.155 -1.8955,7.5 -4.25,7.5 l -23,0 c -2.3545,0 -4.25,-3.345 -4.25,-7.5 l 0,-1.5 c 0,-4.155 1.8955,-7.5 4.25,-7.5 z"
+         inkscape:connector-curvature="0"
+         id="path10125"
+         style="fill:#ffffff;fill-opacity:1;stroke:#5f5f5f;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         x="815.81183"
+         y="407.58594"
+         id="text10127"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><tspan
+           x="815.81183"
+           y="407.58594"
+           id="tspan10129">100</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="156.85715"
+   height="26.023092"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-275.70146,-638.40373)"
+     id="layer1">
+    <g
+       transform="translate(-22.555009,20.691658)"
+       id="turn-anti-clockwise">
+      <path
+         d="m 302.68504,618.30657 7,0 3.25,3.10714 c 2.16667,0 8.33333,0 10.5,0 l 3.25,-3.10714 c 0,0 100.66667,0 124.00001,0 2.17643,0 3.92857,1.75214 3.92857,3.92857 l 0,13.96431 c 0,2.17643 -1.75214,3.92857 -3.92857,3.92857 -23.33334,0 -124.00001,0 -124.00001,0 l -3.25,3.10714 c -2.16667,0 -8.33333,0 -10.5,0 l -3.25,-3.10714 -7,0 c -2.17643,0 -3.92857,-1.75214 -3.92857,-3.92857 l 0,-13.96431 c 0,-2.17643 1.83588,-4.52648 3.92857,-3.92857 z"
+         inkscape:connector-curvature="0"
+         id="path9048"
+         style="fill:#4a6dd6;fill-opacity:1;stroke:#314d94;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         x="302.32788"
+         y="633.5528"
+         id="text9050"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="302.32788"
+           y="633.5528"
+           id="tspan9052">turn                    degrees</tspan></text>
+      <path
+         d="m 362.57843,621.1495 23,0 c 2.3545,0 4.25,3.345 4.25,7.5 l 0,1.5 c 0,4.155 -1.8955,7.5 -4.25,7.5 l -23,0 c -2.3545,0 -4.25,-3.345 -4.25,-7.5 l 0,-1.5 c 0,-4.155 1.8955,-7.5 4.25,-7.5 z"
+         inkscape:connector-curvature="0"
+         id="path9054"
+         style="fill:#ffffff;fill-opacity:1;stroke:#5f5f5f;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         x="367.04971"
+         y="633.56348"
+         id="text9056"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><tspan
+           x="367.04971"
+           y="633.56348"
+           id="tspan9058">15</tspan></text>
+      <path
+         d="m 343.98468,621.16232 c 4.27005,0 7.75,3.4487 7.75,7.71875 0,4.27005 -3.47995,7.75 -7.75,7.75 l 0,-1 c 3.72961,0 6.75,-3.02039 6.75,-6.75 0,-3.72961 -3.02039,-6.71875 -6.75,-6.71875 -3.33764,0 -6.11095,2.38637 -6.65625,5.5625 l 1.40625,0 -2,3.46875 -2,-3.46875 1.59375,0 c 0.55661,-3.72451 3.7757,-6.5625 7.65625,-6.5625 z"
+         inkscape:connector-curvature="0"
+         id="path9062"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </g>
+  </g>
+</svg>

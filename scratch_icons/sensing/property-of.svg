@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="174.5"
+   height="17.5"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-275.70146,-377.99457)"
+     id="layer1">
+    <g
+       transform="translate(-58.221369,7.6879073)"
+       id="property-of">
+      <path
+         d="m 338.67283,370.80666 165,0 c 2.3545,0 4.25,3.345 4.25,7.5 l 0,1.5 c 0,4.155 -1.8955,7.5 -4.25,7.5 l -165,0 c -2.3545,0 -4.25,-3.345 -4.25,-7.5 l 0,-1.5 c 0,-4.155 1.8955,-7.5 4.25,-7.5 z"
+         inkscape:connector-curvature="0"
+         id="path7330"
+         style="fill:#0088cc;fill-opacity:1;stroke:#0075b5;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         x="420.64038"
+         y="382.71765"
+         id="text7332"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="420.64038"
+           y="382.71765"
+           id="tspan7334">of</tspan></text>
+      <path
+         d="m 440.21433,372.12201 58.96321,0 0,13.86929 -58.96321,0 z"
+         inkscape:connector-curvature="0"
+         id="path7336"
+         style="fill:#197db5;fill-opacity:1;stroke:#085d8c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         d="m 490.37077,382.99416 -4.54663,-7.875 9.09326,0 z"
+         inkscape:connector-curvature="0"
+         id="path7338"
+         style="fill:#424142;fill-opacity:1;stroke:none" />
+      <path
+         d="m 342.21433,372.12201 72.96321,0 0,13.86929 -72.96321,0 z"
+         inkscape:connector-curvature="0"
+         id="path7345"
+         style="fill:#197db5;fill-opacity:1;stroke:#085d8c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         d="m 406.37077,382.99416 -4.54663,-7.875 9.09326,0 z"
+         inkscape:connector-curvature="0"
+         id="path7347"
+         style="fill:#424142;fill-opacity:1;stroke:none" />
+      <text
+         x="346.00742"
+         y="382.36267"
+         id="text7349"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><tspan
+           x="346.00742"
+           y="382.36267"
+           id="tspan7351">x position</tspan></text>
+      <text
+         x="443.49808"
+         y="382.36267"
+         id="text7353"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><tspan
+           x="443.49808"
+           y="382.36267"
+           id="tspan7355">Sprite1</tspan></text>
+    </g>
+  </g>
+</svg>

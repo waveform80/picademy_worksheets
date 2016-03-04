@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="150.15433"
+   height="17.263451"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-275.70146,-44.723549)"
+     id="layer1">
+    <g
+       transform="translate(-59.154329,-8.902471)"
+       id="touching-color">
+      <path
+         d="m 343.35579,54.12602 133.15432,0 8,8.13173 -8,8.13172 -133.15432,0 -8,-8.13172 z"
+         inkscape:connector-curvature="0"
+         id="path7044"
+         style="fill:#0096de;fill-opacity:1;stroke:#0075b5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         x="347"
+         y="66.373749"
+         id="text7046"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="347"
+           y="66.373749"
+           id="tspan7048">touching color        ?</tspan></text>
+      <path
+         d="m 445.54529,55.3231 14.96321,0 0,13.86929 -14.96321,0 z"
+         inkscape:connector-curvature="0"
+         id="path7050"
+         style="fill:#4a8a52;fill-opacity:1;stroke:#636563;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>

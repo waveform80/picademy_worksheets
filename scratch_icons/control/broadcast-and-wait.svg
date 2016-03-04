@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="208.85715"
+   height="25.928579"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-21.974874,-477.711)"
+     id="layer1">
+    <g
+       transform="translate(-7.732327,20.304466)"
+       id="broadcast-and-wait">
+      <path
+         d="m 34.135772,457.90653 7,0 3.25,3.10714 c 2.166669,0 8.33333,0 10.5,0 l 3.25,-3.10714 c 0,0 152.666668,0 175.999998,0 2.17643,0 3.92857,1.75214 3.92857,3.92857 l 0,13.9643 c 0,2.17643 -1.75214,3.92857 -3.92857,3.92857 -23.33333,0 -175.999998,0 -175.999998,0 l -3.25,3.10714 c -2.16667,0 -8.333331,0 -10.5,0 l -3.25,-3.10714 -7,0 c -2.176431,0 -3.928571,-1.75214 -3.928571,-3.92857 l 0,-13.9643 c 0,-2.17643 1.75214,-3.92857 3.928571,-3.92857 z"
+         inkscape:connector-curvature="0"
+         id="path3853"
+         style="fill:#e6aa19;fill-opacity:1;stroke:#c69215;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         x="33.778618"
+         y="472.92053"
+         id="text3855"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="33.778618"
+           y="472.92053"
+           id="tspan3857">broadcast</tspan></text>
+      <text
+         x="178.79341"
+         y="472.92053"
+         id="text3865"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="178.79341"
+           y="472.92053"
+           id="tspan3867"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">and wait</tspan></text>
+      <path
+         d="m 102.6315,461.81557 70.96322,0 0,13.86929 -70.96322,0 z"
+         inkscape:connector-curvature="0"
+         id="path3909"
+         style="fill:#c59631;fill-opacity:1;stroke:#a57519;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         d="m 166.125,472.48718 -4.54663,-7.875 9.09326,0 z"
+         inkscape:connector-curvature="0"
+         id="path6901"
+         style="fill:#424142;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

@@ -4,8 +4,8 @@ The template for the creation of worksheets is in `template.sla`. This is
 inteded for usage with Scribus 1.4.x. Install pre-requisites on Ubuntu with
 the following command:
 
-	sudo apt-get install scribus ttf-mscorefonts-installer fonts-roboto \
-		texlive-fonts-recommended fonts-freefont-otf
+	sudo apt-get install inkscape scribus ttf-mscorefonts-installer \
+		fonts-roboto fonts-freefont-otf texlive-fonts-recommended
 
 You will also need to install the Bebas Neue font from the `bebas_neue.zip`
 archive in the root of the repository. Simply extract the content and double
@@ -140,3 +140,34 @@ contained text with default font styles. Images *may* use an 8pt rounded border
 if appropriate (e.g. images of whole windows typically look silly with a
 rounded border). Boxes and images should use contour spacing with the contour
 set 8pt out from the frame shape.
+
+## Scratch Vector Blocks
+
+In the `scratch_icons` sub-directory you'll find a set of sub-directories named
+after the various palettes of blocks in the Pi's edition of Scratch. Each
+contains SVG (vector) images of the blocks available in each palette. With a
+little knowledge of Inkscape (or Illustrator), it's possible to build decent
+Scratch scripts suitable for high-resolution printing using these images.
+
+My recommendation for building scripts using these images would be to follow a
+process similar to the following:
+
+1. Open Inkscape and start a new document.
+
+2. Drag'n'drop the blocks you'll need from the sub-directories into your
+document. Don't worry about labelling, stretching or organizing them yet.
+
+3. Position the blocks you've dropped using the alignment tools. Unfortunately
+vertical alignment is largely manual at this point (and grids don't help much
+given the next steps).
+
+4. For each block in turn, break open its group and edit the text according to
+your needs. If the block needs expanding, use the node tool to do so after
+editing the text (just select all the right nodes, for example, and use the
+cursor keys or Ctrl+drag to ensure you move the nodes horizontally and not
+vertically). Re-group each block after editing.
+
+5. Reszie the page to the drawing (File / Document Properties), export as a
+high resolution bitmap (300 dpi+) and import into Scribus (you can try
+importing the SVG directly, but Scribus' handling of SVGs is generally awful).
+

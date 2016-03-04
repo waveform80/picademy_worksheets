@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="80.85714"
+   height="22.915997"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-21.974874,-1120.9996)"
+     id="layer1">
+    <g
+       transform="translate(-16.332119,0)"
+       id="stop-all">
+      <path
+         d="m 42.735563,1121.5941 7,0 3.25,3.1072 c 2.16667,0 8.33333,0 10.5,0 l 3.25,-3.1072 c 0,0 24.666671,0 47.999997,0 2.17643,0 3.92857,1.7522 3.92857,3.9286 l 0,13.9643 c 0,2.1764 -1.75214,3.9286 -3.92857,3.9286 l -71.999997,0 c -2.17643,0 -3.92857,-1.7522 -3.92857,-3.9286 l 0,-13.9643 c 0,-2.1764 1.83588,-4.5265 3.92857,-3.9286 z"
+         inkscape:connector-curvature="0"
+         id="path6854"
+         style="fill:#e6aa19;fill-opacity:1;stroke:#c69215;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         x="42.37841"
+         y="1136.594"
+         id="text6856"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="42.37841"
+           y="1136.594"
+           id="tspan6858">stop all</tspan></text>
+      <path
+         d="m 98.330359,1137.2437 -6.532747,-2.6708 -2.730858,-6.5078 2.67073,-6.5327 6.507841,-2.7309 6.532745,2.6707 2.73086,6.5079 -2.67073,6.5327 z"
+         inkscape:connector-curvature="0"
+         transform="matrix(0.92229071,0.38649688,-0.38649688,0.92229071,449.74009,54.044884)"
+         id="path6865"
+         style="fill:#c50000;fill-opacity:1;stroke:#424542;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>

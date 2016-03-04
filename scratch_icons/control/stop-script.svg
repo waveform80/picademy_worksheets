@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="80.85714"
+   height="22.915997"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-21.974874,-1087.2804)"
+     id="layer1">
+    <g
+       transform="translate(-14.917905,3.0503846)"
+       id="stop-script">
+      <path
+         d="m 41.321349,1084.8245 7,0 3.25,3.1072 c 2.16667,0 8.33333,0 10.5,0 l 3.25,-3.1072 c 0,0 24.666671,0 48.000001,0 2.17643,0 3.92857,1.7522 3.92857,3.9286 l 0,13.9643 c 0,2.1764 -1.75214,3.9286 -3.92857,3.9286 l -72.000001,0 c -2.17643,0 -3.92857,-1.7522 -3.92857,-3.9286 l 0,-13.9643 c 0,-2.1764 1.83588,-4.5265 3.92857,-3.9286 z"
+         inkscape:connector-curvature="0"
+         id="path6821"
+         style="fill:#e6aa19;fill-opacity:1;stroke:#c69215;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         x="40.964195"
+         y="1099.8245"
+         id="text6823"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           x="40.964195"
+           y="1099.8245"
+           id="tspan6825">stop script</tspan></text>
+    </g>
+  </g>
+</svg>
