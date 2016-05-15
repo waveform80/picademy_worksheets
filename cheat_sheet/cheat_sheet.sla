@@ -42,7 +42,7 @@
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="4" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="14" MinGlyphShrink="0.95" CPARENT="Default Character Style" FONT="URW Gothic L Book"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="4" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="14" MinGlyphShrink="0.95" CPARENT="Default Character Style" FONT="URW Gothic L Book"/>
         <STYLE NAME="Heading" PARENT="Default Paragraph Style" VOR="12" NACH="0" FONT="Bebas Neue Regular" FONTSIZE="20"/>
         <STYLE NAME="List Level 1" PARENT="Default Paragraph Style" INDENT="20" FIRST="-20" VOR="0">
             <Tabs Type="0" Pos="20" Fill=""/>
@@ -54,7 +54,7 @@
         <STYLE NAME="First Paragraph" PARENT="Default Paragraph Style" VOR="4" DROP="1" DROPDIST="0" BASEO="0"/>
         <STYLE NAME="Callout" PARENT="Default Paragraph Style" FONTSIZE="10"/>
         <STYLE NAME="Callout Heading" PARENT="Heading" VOR="12" FONTSIZE="18" FCOLOR="White"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="URW Gothic L Book" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="URW Gothic L Book" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Commands" CPARENT="Default Character Style" FONT="FreeMono Regular" FEATURES="underline" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="90" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="-5" wordTrack="0.9"/>
         <CHARSTYLE CNAME="Code" CPARENT="Default Character Style" FONT="FreeMono Regular" KERN="-5" wordTrack="1"/>
         <CHARSTYLE CNAME="Keyword" CPARENT="Code" FONT="FreeMono Regular" FCOLOR="03770 Orange"/>
@@ -387,6 +387,8 @@
             <ITEXT CH="Mine­craft Block ref­er­ence"/>
             <para/>
             <ITEXT CH="Play­ing Sounds in Python"/>
+            <para/>
+            <ITEXT CH="Twython script (text tweet + me­dia tweet)"/>
             <para/>
             <PageItemAttributes/>
         </PAGEOBJECT>
